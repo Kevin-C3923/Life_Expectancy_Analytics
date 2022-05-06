@@ -4,8 +4,14 @@
 
 
 ## Machine Learning Model
+Our machine learning model will help us find strong or weak correlation to lifespan.Since our datasets are labeled and we are looking for a linear regression correlation we will use a supervised machine learning model and or a deep learning.
+It is expected to use the SciKit-Learn library for this model,however this aspect is pending final design.
 
-Due to the dataset being labeled its appropriate to use Supervised Machine considering that all of the input data is labeled. It is expected to use the SciKit-Learn library for this model, however this aspect is pending final design.
+output label-
+input label
 
-✓ Takes in data in from the provisional database
-✓ Outputs label(s) for input data
+ETL for Datasets
+*
+*
+*
+*
