@@ -69,3 +69,13 @@ _*See Figure 1 for full technology flow*_
 The new dataset wil be generated the original dataset with the specific characteristic, which will be used to create a databased in PostgreSQL and hosted in Amazon Web Services.  PG Admin shall be used for editing and connection to the DB. 
 
 ![SchemaUpdated](/resource/SchemaUpdated.png)
+
+### Dashboard and Visualizations:
+
+Tableau shall be used for visualizations, this may be used in a standalone manner or embedded in a webpage, pending final design. This may read from the DB or via results files generated.
+
+### Technology Flow:
+
+![Figure 1](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/main/resource/fig1.png)
+
+**_Figure 1_:** Technology Flow.
