@@ -44,4 +44,3 @@ _*Duties of each role are as follows:*_
  
 The group shall meet each Monday and Wednesday during class hours with an additional meeting at 12 p.m. each Saturday. There shall be continuous communication within the dedicated slack channel and additional zoom meetings shall be scheduled as required.
 
- 
