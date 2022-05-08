@@ -77,6 +77,7 @@ Tableau shall be used for visualizations, this may be used in a standalone manne
 ### Technology Flow:
 
 ![Figure 1](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/main/resources/fig1.png)
+
 **_Figure 1_:** Technology Flow.
 
 
