@@ -1,21 +1,23 @@
-# Life_Expectancy_Analytics
 
+###Selected Topic:
+Longevity, and influencing factors, in New York State
 
+###Reason For Topic Selection:
+[to be inserted]
 
+###Data Source Description:
+Data was sourced from this location:
+https://www.countyhealthrankings.org/app/new-york/2022/downloads
 
-## Machine Learning Model
-Our machine learning model will help us find strong or weak correlation to lifespan.Since our datasets are labeled and we are looking for a linear regression correlation we will use a supervised machine learning model and or a deep learning.It is expected to use the SciKit-Learn library for this model,however this aspect is pending final design.
-For this analysis we will look  data from 2011 to 2022. Data will be group by NYS counties. We will create multiple data frames with Pandas to extract the only needed features for this analysis.
+The dataset contains data for each county in New York State, and provides annual data for a variety of factors linked to longevity (e.g. obesity rate, food environment index etc..). Datasets are available from 2011 to 2022,
 
+Of the listed data, the following variables are to be analyzed:
 
-### Output label- # of death in each NYS county
-### Input label- % Fair or Poor Health; % Low birthweight; Food Environment Index; # Driving Deaths;# Uninsured; Mental Health Provider Ratio
+* Deaths 	
+* % Poor Health 
+* % Low Birthweight 
+* Food Environment Index 
+* Number of Driving Deaths 
+* Number of Uninsured People 
+* Mental Health Provider Ratio 
 
-
-
-
-### ETL for Datasets
-*
-*
-*
-*
