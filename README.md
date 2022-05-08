@@ -1,11 +1,11 @@
 
-###Selected Topic:
+### Selected Topic:
 Longevity, and influencing factors, in New York State
 
-###Reason For Topic Selection:
+### Reason For Topic Selection:
 [to be inserted]
 
-###Data Source Description:
+### Data Source Description:
 Data was sourced from this location:
 https://www.countyhealthrankings.org/app/new-york/2022/downloads
 
@@ -21,10 +21,10 @@ Of the listed data, the following variables are to be analyzed:
 * Number of Uninsured People 
 * Mental Health Provider Ratio 
 
-###Question We Hope To Answer With The Data:
+### Question We Hope To Answer With The Data:
 The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
-###Communications Protocols:
+### Communications Protocols:
 The team for consists of four members, each with a designated role:
 
 * Kevin Camarillo (Square)
@@ -44,7 +44,7 @@ _*Duties of each role are as follows:*_
  
 The group shall meet each Monday and Wednesday during class hours with an additional meeting at 12 p.m. each Saturday. There shall be continuous communication within the dedicated slack channel and additional zoom meetings shall be scheduled as required.
 
-###Machine Learning Model:
+### Machine Learning Model:
 
 Our machine learning model will help us find strong or weak correlation to lifespan.Since our datasets are labeled and we are looking for a linear regression correlation we will use a supervised machine learning model and or a deep learning.It is expected to use the SciKit-Learn library for this model,however this aspect is pending final design. For this analysis we will look data from 2011 to 2022. Data will be group by NYS counties. We will create multiple data frames with Pandas to extract the only needed features for this analysis.
 
