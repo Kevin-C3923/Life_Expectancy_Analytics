@@ -1,3 +1,4 @@
+# Life_Expectancy_Analytics
 
 ### Selected Topic:
 Longevity, and influencing factors, in New York State
@@ -63,3 +64,8 @@ Our machine learning model will help us find strong or weak correlation to lifes
 
 _*See Figure 1 for full technology flow*_
 
+### Database
+
+The new dataset wil be generated the original dataset with the specific characteristic, which will be used to create a databased in PostgreSQL and hosted in Amazon Web Services.  PG Admin shall be used for editing and connection to the DB. 
+
+![SchemaUpdated](/resource/SchemaUpdated.png)
