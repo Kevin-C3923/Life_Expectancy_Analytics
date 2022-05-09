@@ -4,7 +4,7 @@
 Longevity, and influencing factors, in New York State
 
 ### Reason For Topic Selection:
-[to be inserted]
+The topic for this analysis was an interesting one to apply a machine learning model to see what sort of outputs we can get by applying the factors that may affect someone lifespan.
 
 ### Data Source Description:
 Data was sourced from this location:
