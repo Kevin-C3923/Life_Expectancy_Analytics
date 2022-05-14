@@ -1,4 +1,4 @@
-Years,FIPS,County,% Fair/Poor,% LBW,Food Environment Index,# Driving Deaths,# Uninsured,MHP Ratio
+Years,FIPS,County,% Fair or Poor Health,% Low birthweight,Food Environment Index,# Driving Deaths,# Uninsured,Mental Health Provider Ratio
 2018,36001,Albany,13,8,8.0,99,13476,0.0031545741324921135
 2018,36003,Allegany,15,7,8.2,21,2165,0.0019120458891013384
 2018,36005,Bronx,27,9,7.9,227,139181,0.0017953321364452424
