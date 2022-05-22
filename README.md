@@ -51,23 +51,31 @@ A variety of machine learning models were tested against the available data to a
 Supervised Learning and Unsupervised Learning were both explored as candidates; the final selection and classification was completed using Primary Component Analysis and Hierarchical Clustering
 
 ### Machine Learning Model:
+#### Pre-processing Data
+* For our data pre-processing we had to do some cleaning before using in any ML model so it could run without error. We first join all the data collected from the web into one CSV file and then clean up the columns and rows with null or zero values. Finally we grouped data by county and took the mean to then scale out the data.
 
-Our machine learning model will help us find strong or weak correlation to lifespan.Since our datasets are labeled and we are looking for a linear regression correlation we will use a supervised machine learning model and or a deep learning.It is expected to use the SciKit-Learn library for this model,however this aspect is pending final design. For this analysis we will look data from 2011 to 2022. Data will be group by NYS counties. We will create multiple data frames with Pandas to extract the only needed features for this analysis.
+#### Feature engineering and Selection
+* Our preliminary feature are the factors that may affect a premature deaths, we want to find out which of the features (factors) has a higher effect on the cause of premature deaths. The data collected broke down by NYS county's, we were curious to analyze which feature had a stronger correlation with the death rate. We wanted to analyze over the years but data would not work well with any machine learning models. We applied a linear and logistic regression model,that didn't not give us much information about the data and the accuracy on the model was 0%. After applying the LR model we grouped the data by county with the mean, then scaled data points to ratios. We then ran a PCA and applied the K-mean model.
 
-**Output label:** 
+#### Spliting and Training data
+* For the our ML model selection the linear regression didnt call for a split. When we applied a Logistic regression model we applied a split  by making "X: Food environment index"" and "y: death total." We stratified the data to 60 training 40 test.
 
-- No. of death in each NYS county 
+#### Machine Learning Model Decision
+* We originally thought the linear regression model would work with our data set but it didn't work well with out data. There was no correlation or patterns observed with this model. The data point were all scattered and the linear regression was almost flat for all input labels. This led us to applied a PCA and then do a K-mean model to instead cluster our data point for each feature. After applying this model we did observed patterns among our data points.
 
-**Input labels:** 
 
-- % Fair or Poor Health; 
-- % Low birthweight; 
+**Output fearture:** 
+- death ratio
+
+**Input features:** 
+- Fair or Poor Health %; 
+- Low birthweight %; 
 - Food Environment Index; 
-- No. Driving Deaths;
-- No. Uninsured; 
-- Mental Health Provider Ratio
+- Driving Deaths ratio;
+- Uninsured ratio; 
+- Mental Health Provider ratio
 
-_*See Figure 1 for full technology flow*_
+
 
 ### Database
 
