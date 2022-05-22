@@ -4,7 +4,7 @@
 Longevity, and influencing factors, in New York State
 
 ### Reason For Topic Selection:
-The topic for this analysis was an interesting one to apply a machine learning model to see what sort of outputs we can get by applying the factors that may affect someone lifespan.
+The topic for this analysis was an interesting one to apply a machine learning model to investigate clustering and corelated factors that affect lifespan in different areas.
 
 ### Data Source Description:
 Data was sourced from this location:
@@ -21,6 +21,7 @@ Of the listed data, the following variables are to be analyzed:
 * Number of Driving Deaths 
 * Number of Uninsured People 
 * Mental Health Provider Ratio 
+
 
 ### Question We Hope To Answer With The Data:
 The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
@@ -44,6 +45,10 @@ _*Duties of each role are as follows:*_
 **X:** The member in the X role will decide which technologies will be used for each step of the project.
  
 The group shall meet each Monday and Wednesday during class hours with an additional meeting at 12 p.m. each Saturday. There shall be continuous communication within the dedicated slack channel and additional zoom meetings shall be scheduled as required.
+
+### Data Exploration Phase:
+A variety of machine learning models were tested against the available data to assess the best model fit.
+Supervised Learning and Unsupervised Learning were both explored as candidates; the final selection and classification was completed using Primary Component Analysis and Hierarchical Clustering
 
 ### Machine Learning Model:
 
@@ -74,8 +79,15 @@ The new dataset wil be generated the original dataset with the specific characte
 
 Tableau shall be used for visualizations, this may be used in a standalone manner or embedded in a webpage, pending final design. This may read from the DB or via results files generated.
 
+Additionally, excel may be used for initial data exploration
+
 ### Technology Flow:
 
 ![Figure 1](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/main/resource/fig1.png)
 
 **_Figure 1_:** Technology Flow.
+
+
+### Google Slides Presenation:
+This is located here: XXXXXXX
+This is currently in draft stage, pending completion of other project deliverables.
