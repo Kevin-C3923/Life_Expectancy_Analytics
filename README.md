@@ -66,7 +66,7 @@ _*See Figure 1 for full technology flow*_
 
 ### Database
 
-After cleaning and merging the County Health Ranking of NY from past 10 years, we used the data to calculate the ratio as comparing the health factor to the census population. The following tables are currently conncted via SQLAlchemy and stored on postgreSQL and will be hosted in Amazon Web Services.
+After cleaning and merging the County Health Ranking of NY from past 10 years on Jupyter Notebook, we used the data to calculate the ratio as comparing the health factor to the census population. The following tables are currently conncted via SQLAlchemy and stored on postgreSQL and will be hosted in Amazon Web Services.
 
 ![Life_Expectancy_ERD.png](/database/Life_Expectancy_ERD.png)
 
