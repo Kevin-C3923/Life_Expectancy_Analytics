@@ -66,9 +66,12 @@ _*See Figure 1 for full technology flow*_
 
 ### Database
 
-The new dataset wil be generated the original dataset with the specific characteristic, which will be used to create a databased in PostgreSQL and hosted in Amazon Web Services.  PG Admin shall be used for editing and connection to the DB. 
+After cleaning and merging the County Health Ranking of NY from past 10 years, we used the data to calculate the ratio as comparing the health factor to the census population. The following tables are conncted via SQLAlchemy and stored on postgreSQL.
 
-![SchemaUpdated](/resource/SchemaUpdated.png)
+![Combined_census_ratios_table.png](/database/Combined_census_ratios_table.png)
+
+
+
 
 ### Dashboard and Visualizations:
 
