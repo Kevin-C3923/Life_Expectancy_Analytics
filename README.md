@@ -106,6 +106,18 @@ Additionally, excel may be used for initial data exploration
 **_Figure 1_:** Technology Flow.
 
 
-### Google Slides Presenation:
-This is located here: XXXXXXX
-This is currently in draft stage, pending completion of other project deliverables.
+### Dashboard
+
+Dashboard visuals will be provided by Tableau, final presenetation will be via google slides.
+
+The google slides early draft presentation is located at below link. This is an early draft, and will be completed in coming weeks.
+
+[Google Slides](https://docs.google.com/presentation/d/1auiaKXpYgCZgOIzJwHEtKsPyfpa_2tTZxCRFoJvX4xE/edit?usp=sharing)
+
+
+The Draft Visualizations from Tableau are located at this link:
+[Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/NY_Viz_Week2/Dashboard1?publish=yes)
+
+Additionally, Microsoft Excel is used for quick prototyping of ideas and visualizations; prep work for final visualizations may be viewed from the file located at this link:
+[Excel Protyping Visuals](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/Dashboard/Dashboard/county_scaled.xlsx)
+
