@@ -79,9 +79,19 @@ Supervised Learning and Unsupervised Learning were both explored as candidates; 
 
 ### Database
 
-The new dataset wil be generated the original dataset with the specific characteristic, which will be used to create a databased in PostgreSQL and hosted in Amazon Web Services.  PG Admin shall be used for editing and connection to the DB. 
+After cleaning and merging the County Health Ranking of NY from past 10 years on Jupyter Notebook, we used the data to calculate the ratio as comparing the health factor to the census population. The following tables are currently conncted via SQLAlchemy and stored on postgreSQL and will be hosted in Amazon Web Services.
 
-![SchemaUpdated](/resource/SchemaUpdated.png)
+![Life_Expectancy_ERD.png](/database/Life_Expectancy_ERD.png)
+
+![health_factors.png](/database/health_factors.png)
+
+![Census_Population.png](/database/Census_Population.png)
+
+![pop_factors_ratio.png](/database/pop_factors_ratio.png)
+
+![Combined_census_ratios_table.png](/database/Combined_census_ratios_table.png)
+
+
 
 ### Dashboard and Visualizations:
 
