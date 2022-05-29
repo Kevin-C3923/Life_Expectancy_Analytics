@@ -105,7 +105,7 @@ Dashboard visuals will be provided by Tableau, final presenetation will be via g
 
 The google slides early draft presentation is located at below link. This is an early draft, and will be completed in coming weeks.
 
-[Google Slides](https://docs.google.com/presentation/d/1auiaKXpYgCZgOIzJwHEtKsPyfpa_2tTZxCRFoJvX4xE/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1FHdNYXm0XzGTU72ifNadUf7fz4tBam6r3sGRI6Vt-FI/edit?usp=sharing)
 
 
 The Draft Visualizations from Tableau are located at this link:
