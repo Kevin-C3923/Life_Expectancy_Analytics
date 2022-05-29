@@ -111,6 +111,4 @@ The google slides early draft presentation is located at below link. This is an 
 The Visualizations from Tableau are located at this link:
 [Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/ML_VIZ_Week3_Story/Story1?publish=yes)
 
-Additionally, Microsoft Excel is used for quick prototyping of ideas and visualizations; prep work for final visualizations may be viewed from the file located at this link:
-[Excel Protyping Visuals](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/Dashboard/Dashboard/county_scaled.xlsx)
 
