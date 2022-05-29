@@ -105,11 +105,11 @@ Dashboard visuals will be provided by Tableau, final presenetation will be via g
 
 The google slides early draft presentation is located at below link. This is an early draft, and will be completed in coming weeks.
 
-[Google Slides](https://docs.google.com/presentation/d/1auiaKXpYgCZgOIzJwHEtKsPyfpa_2tTZxCRFoJvX4xE/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1FHdNYXm0XzGTU72ifNadUf7fz4tBam6r3sGRI6Vt-FI/edit?usp=sharing)
 
 
-The Draft Visualizations from Tableau are located at this link:
-[Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/NY_Viz_Week2/Dashboard1?publish=yes)
+The Visualizations from Tableau are located at this link:
+[Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/ML_VIZ_Week3_Story/Story1?publish=yes)
 
 Additionally, Microsoft Excel is used for quick prototyping of ideas and visualizations; prep work for final visualizations may be viewed from the file located at this link:
 [Excel Protyping Visuals](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/Dashboard/Dashboard/county_scaled.xlsx)
