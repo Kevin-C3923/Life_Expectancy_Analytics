@@ -26,13 +26,6 @@ Of the listed data, the following variables are to be analyzed:
 ### Question We Hope To Answer With The Data:
 The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
-### Communications Protocols:
-The team for consists of four members, each with a designated role:
-
-* Kevin Camarillo (Square)
-* Krystal Cheng (Circle)
-* Silvania Roche (Triangle)
-* Christopher Ryan (X)
 
 _*Duties of each role are as follows:*_
 
