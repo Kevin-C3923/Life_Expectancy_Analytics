@@ -3,6 +3,10 @@
 ### Selected Topic:
 Longevity, and influencing factors, in New York State
 
+### Question for this analysis:
+Which of the investigated factors, exhibit the greatest influence on longevity, on a county basis ?
+
+
 ### Reason For Topic Selection:
 The topic for this analysis was an interesting one to apply a machine learning model to investigate clustering and corelated factors that affect lifespan in different areas.
 
@@ -62,6 +66,8 @@ Supervised Learning and Unsupervised Learning were both explored as candidates; 
 
 #### Machine Learning Model Decision
 * We originally thought the linear regression model would work with our data set but it didn't work well with out data. There was no correlation or patterns observed with this model. The data point were all scattered and the linear regression was almost flat for all input labels. This led us to applied a PCA and then do a K-mean model to instead cluster our data point for each feature. After applying this model we did observed patterns among our data points.
+
+* When we reference our question "Which of the investigated factors, exhibit the greatest influence on longevity, on a county basis ?" the ML model does indeed answer it. We can see per county which of the factors affects the most on the death ratio.
 
 
 **Output fearture:** 
