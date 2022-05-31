@@ -91,6 +91,10 @@ After cleaning and merging the County Health Ranking of NY from past 10 years on
 ![Combined_census_ratios_table.png](/database/Combined_census_ratios_table.png)
 
 
+### Analysis Summary:
+The parameters under investigation were divided into quartiles (Low, Below Average, Above Average, High), and sorted by Death Ratio.This provided a high level view of class commonalities.These groupings are shown on in our dashboard and slide deck.
+
+
 ### Dashboard and Visualizations:
 
 Tableau shall be used for visualizations, this may be used in a standalone manner or embedded in a webpage, pending final design. This may read from the DB or via results files generated.
