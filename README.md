@@ -30,13 +30,6 @@ Of the listed data, the following variables are to be analyzed:
 ### Question We Hope To Answer With The Data:
 The above items shall be analyzed, across the New York State dataset, to determine if these factors are correlate to the YPLL figures (Years Potential Life Lost).
 
-### Communications Protocols:
-The team for consists of four members, each with a designated role:
-
-* Kevin Camarillo (Square)
-* Krystal Cheng (Circle)
-* Silvania Roche (Triangle)
-* Christopher Ryan (X)
 
 _*Duties of each role are as follows:*_
 
@@ -85,7 +78,7 @@ Supervised Learning and Unsupervised Learning were both explored as candidates; 
 
 ### Database
 
-After cleaning and merging the County Health Ranking of NY from past 10 years on Jupyter Notebook, we used the data to calculate the ratio as comparing the health factor to the census population. The following tables are currently conncted via SQLAlchemy and stored on postgreSQL and will be hosted in Amazon Web Services.
+After cleaning and merging the County Health Ranking of NY from past 10 years on Jupyter Notebook, we used the data to calculate the ratios as comparing the health factors to the census population of 2020. These dataset and tables are stored on PostgreSQL and connected with Machine Learning model via SQLAlchemy.
 
 ![Life_Expectancy_ERD.png](/database/Life_Expectancy_ERD.png)
 
@@ -100,7 +93,6 @@ After cleaning and merging the County Health Ranking of NY from past 10 years on
 
 ### Analysis Summary:
 The parameters under investigation were divided into quartiles (Low, Below Average, Above Average, High), and sorted by Death Ratio.This provided a high level view of class commonalities.These groupings are shown on in our dashboard and slide deck.
-
 
 
 ### Dashboard and Visualizations:
@@ -122,12 +114,10 @@ Dashboard visuals will be provided by Tableau, final presenetation will be via g
 
 The google slides early draft presentation is located at below link. This is an early draft, and will be completed in coming weeks.
 
-[Google Slides](https://docs.google.com/presentation/d/1auiaKXpYgCZgOIzJwHEtKsPyfpa_2tTZxCRFoJvX4xE/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1FHdNYXm0XzGTU72ifNadUf7fz4tBam6r3sGRI6Vt-FI/edit?usp=sharing)
 
 
-The Draft Visualizations from Tableau are located at this link:
-[Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/NY_Viz_Week2/Dashboard1?publish=yes)
+The Visualizations from Tableau are located at this link:
+[Tableau Visualizations] (https://public.tableau.com/app/profile/christopher.ryan4533/viz/ML_VIZ_Week3_Story/Story1?publish=yes)
 
-Additionally, Microsoft Excel is used for quick prototyping of ideas and visualizations; prep work for final visualizations may be viewed from the file located at this link:
-[Excel Protyping Visuals](https://github.com/Kevin-C3923/Life_Expectancy_Analytics/blob/Dashboard/Dashboard/county_scaled.xlsx)
 
